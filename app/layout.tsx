@@ -39,11 +39,10 @@ export default function RootLayout({
      
       <body>
       
-      <SmoothScroll>
+      
      {children}
 
-     </SmoothScroll>
-      <ScrollToTop />
+     
       <CustomCursor/>
       </body>
      
